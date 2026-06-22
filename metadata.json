@@ -1,0 +1,6 @@
+{
+  "name": "Quick CV Maker",
+  "description": "Create a professional curriculum vitae and download it as PDF",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
